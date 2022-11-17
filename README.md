@@ -1,7 +1,12 @@
 ### Hi there 👋
 ### About Me
-- IoT security researcher
+- IoT and protocol security researcher
 - [Blog](https://cq674350529.github.io/) | [Twitter](https://twitter.com/cq674350529)
+
+#### Presentation
+- POC2021: [MikroTik RouterOS Security: The Forgotten IPC Message](https://github.com/cq674350529/pocs_slides/blob/master/slides/POC2022-MikroTik_RouterOS_Security-The_Forgotten_IPC_Message.pdf)
+- HITB2021AMS: [A Journey into Synology NAS](https://github.com/cq674350529/pocs_slides/blob/master/slides/HITB2021AMS-A_Journey_into_Synology_NAS.pdf)
+- POC2019: [Bug Hunting in Synology NAS](https://github.com/cq674350529/pocs_slides/blob/master/slides/POC2019-Bug_Hunting_in_Synology_NAS.pdf)
 
 ![](https://github-readme-stats.vercel.app/api?username=cq674350529&show_icons=true&theme=default )
 
