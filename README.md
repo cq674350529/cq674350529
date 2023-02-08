@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### About Me
 - IoT and protocol security researcher
-- [Blog](https://cq674350529.github.io/) | [Twitter](https://twitter.com/cq674350529)
+- [Medium](https://medium.com/@cq674350529) | [Blog](https://cq674350529.github.io/) | [Twitter](https://twitter.com/cq674350529)
 
 #### Presentation
 - BHEU2022: [LCDPwn: Breaking Enterprise-Things with Layer 2 Discovery Protocol Vulnerabilities Again](https://github.com/cq674350529/pocs_slides/blob/master/slides/EU-22-Chen-LCDPwn-Breaking-Enterprise.pdf)
