@@ -4,6 +4,7 @@
 - [Medium](https://medium.com/@cq674350529) | [Blog](https://cq674350529.github.io/) | [Twitter](https://twitter.com/cq674350529)
 
 #### Presentation
+- BHEU2023: [Breaking Theoretical Limits: The Gap Between Virtual NICs and Physical Network Cards](https://i.blackhat.com/EU-23/Presentations/EU-23-Quan-Breaking-Theoretical-Limits_REV2.pdf)    &nbsp;(cooperated)
 - BHEU2022: [LCDPwn: Breaking Enterprise-Things with Layer 2 Discovery Protocol Vulnerabilities Again](https://github.com/cq674350529/pocs_slides/blob/master/slides/EU-22-Chen-LCDPwn-Breaking-Enterprise.pdf)    &nbsp;([video](https://www.youtube.com/watch?v=qIwKg2qny0c))
   + [(website) LCDPwn](https://cq674350529.github.io/lcdpwn/)
 - POC2022: [MikroTik RouterOS Security: The Forgotten IPC Message](https://github.com/cq674350529/pocs_slides/blob/master/slides/POC2022-MikroTik_RouterOS_Security-The_Forgotten_IPC_Message.pdf)  &nbsp;([video](https://www.youtube.com/watch?v=fkigIlDe6vs))
