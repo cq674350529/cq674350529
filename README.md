@@ -4,7 +4,7 @@
 - [Medium](https://medium.com/@cq674350529) | [Blog](https://cq674350529.github.io/) | [Twitter](https://twitter.com/cq674350529)
 
 #### Presentation
-- Off-By-One 2025: Patch Diffing, You Are My Sword! A Deep Dive into Two Critical N-day Vulnerabilities in FortiGate  &nbsp;([video](https://www.youtube.com/watch?v=1pO7CUGpXH8))
+- OffByOne 2025: [Patch Diffing, You Are My Sword! A Deep Dive into Two Critical N-day Vulnerabilities in FortiGate](https://github.com/cq674350529/pocs_slides/blob/master/slides/OffByOne2025-Patch-Diffing-You-Are-My-Sword-A-Deep-Dive-into-Two-Critical-N-day-Vulnerabilities-in-FortiGate.pdf)  &nbsp;([video](https://www.youtube.com/watch?v=1pO7CUGpXH8))
 - BHEU2023: [Breaking Theoretical Limits: The Gap Between Virtual NICs and Physical Network Cards](https://i.blackhat.com/EU-23/Presentations/EU-23-Quan-Breaking-Theoretical-Limits_REV2.pdf)    &nbsp;(cooperated)
 - BHEU2022: [LCDPwn: Breaking Enterprise-Things with Layer 2 Discovery Protocol Vulnerabilities Again](https://github.com/cq674350529/pocs_slides/blob/master/slides/EU-22-Chen-LCDPwn-Breaking-Enterprise.pdf)    &nbsp;([video](https://www.youtube.com/watch?v=qIwKg2qny0c))
   + [(website) LCDPwn](https://cq674350529.github.io/lcdpwn/)
